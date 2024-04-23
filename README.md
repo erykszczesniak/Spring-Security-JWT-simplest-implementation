@@ -7,13 +7,13 @@
 {
 "name": "Eryk",
 "password": "123456",
-"email": "eryk@email.com",
+"email": "eryk@gmail.com",
 "roles": "USER"
 }
 ```
 
+![Screenshot 2024-04-23 at 20 04 44](https://github.com/erykszczesniak/Spring-Security-JWT-simplest-implementation/assets/64661383/7b7a599e-23a3-490f-ab4d-babc49c50020)
 
-![img.png](src/main/resources/static/img/img.png)
 
 
 ## 2. Token Generation

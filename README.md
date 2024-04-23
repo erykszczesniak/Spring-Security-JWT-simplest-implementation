@@ -31,6 +31,8 @@
 }
 ```
 
+![Screenshot 2024-04-23 at 20 07 54](https://github.com/erykszczesniak/Spring-Security-JWT-simplest-implementation/assets/64661383/b42e46a1-e9ce-4d73-9f67-9c9c0abe21e7)
+
 **Response**: A `200 OK` status with a JWT token in the response body.
 
 

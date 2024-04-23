@@ -13,7 +13,7 @@
 ```
 
 
-![img.png](src/main/img.png)
+![img.png](src/main/resources/static/img/img.png)
 
 
 ## 2. Token Generation
@@ -45,6 +45,6 @@
 
 **Response**: A `200 OK` status with a simple greeting message in the response body.
 
-![img_2.png](src/main/img_2.png)
+![img_2.png](src/main/resources/static/img/img_2.png)
 
 ---
